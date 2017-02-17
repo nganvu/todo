@@ -8,9 +8,6 @@ class StaticPagesController < ApplicationController
   def about
   end
 
-  def login
-  end
-
   def board
   end
 end
